@@ -1,0 +1,38 @@
+
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('./fonts/roboto-regular-webfont.woff2') format('woff2'),
+         url('./fonts/roboto-regular-webfont.woff') format('woff');
+
+}
+
+.first, .second, .tree {
+    background:rgb(231, 243, 67) ;
+    opacity: 0.8;
+}
+
+
+.first {
+    color:rgb(231, 135, 24) ;
+    font-family: 'robotoregular';
+    font-size: 100px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.second {
+color:  rgb(6, 11, 15);
+font-family: 'Sansita Swashed', cursive;
+font-style: italic;
+text-transform: uppercase;
+text-decoration: underline;
+}
+
+
+.tree {
+color: #c92c34;
+font-family: 'Times New Roman', 'Times', 'serif';
+font-style: italic;
+text-transform: lowercase;
+
+}
