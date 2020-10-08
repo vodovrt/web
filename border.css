@@ -1,0 +1,22 @@
+.one{
+    background-color: yellow;
+    border: 5px dashed red;
+  
+    padding: 50px;
+
+
+
+    
+}
+ .two{
+    background-color: yellow;
+    border: 5px solid green;
+    padding-top: 50px;
+    
+}
+.tree{
+    background-color: yellow;
+    border: 5px dashed red;
+    padding: 50px;
+
+} 

@@ -1,0 +1,1 @@
+console.log("pokrenuo sam ovaj fajl","ovo je druga stvar","a ovo je treca stvar")
