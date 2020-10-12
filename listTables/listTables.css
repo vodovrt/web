@@ -1,0 +1,20 @@
+.toto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toto td, .toto th {
+    border: solid 1px #000;
+    
+}
+
+.toto th {
+    background-color: rgb(245, 67, 67);
+}
+
+.toto tr:nth-child(even) td {
+    background-color: rgb(211, 209, 209);
+}
+.toto tr:hover td{
+    background-color: yellow;
+}

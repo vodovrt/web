@@ -1,0 +1,22 @@
+.one{
+list-style: inside circle;
+
+}
+.two{
+list-style-type:square;
+
+
+}
+.tree{
+    list-style-type: upper-alpha;
+}
+.four{
+list-style-type: upper-roman;
+
+
+}
+.six{
+width: 200px;
+list-style-type: none;
+background-color: rgba(21, 243, 158, 0.7);
+}
